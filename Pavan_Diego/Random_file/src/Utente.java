@@ -1,11 +1,11 @@
 public class Utente {
     String address;
     String name;
-    String sirname;
-    public Utente(String address, String name, String sirname) {
-        this.address = address;
-        this.name = name;
-        this.sirname = sirname;
+    String Surname;
+    public Utente(String address, String name, String surname) {
+        setAddress(address);
+        setName(name);
+        setSurname(surname);
     }
     public String getAddress() {
         return address;
@@ -19,11 +19,11 @@ public class Utente {
     public void setName(String name) {
         this.name = name;
     }
-    public String getSirname() {
-        return sirname;
+    public String getSurname() {
+        return Surname;
     }
-    public void setSirname(String sirname) {
-        this.sirname = sirname;
+    public void setSurname(String Surname) {
+        this.Surname = Surname;
     }
     
 }
