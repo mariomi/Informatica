@@ -1,9 +1,9 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Anagrafico {
+public class Archivio {
 
-    private static final String FILE_PATH = "anagrafico.dat";
+    private static final String FILE_PATH = "..anagrafico.dat";
 
     public static void main(String[] args) throws IOException {
         boolean esci = false;
