@@ -1,0 +1,53 @@
+10:35:24  [main] 	Initializing Control Panel
+10:35:24  [main] 	Windows Version:  Enterprise  64-bit
+10:35:24  [main] 	XAMPP Version: 8.2.4
+10:35:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:35:24  [main] 	You are not running with administrator rights! This will work for
+10:35:24  [main] 	most application stuff but whenever you do something with services
+10:35:24  [main] 	there will be a security dialogue or things will break! So think 
+10:35:24  [main] 	about running this application with administrator rights!
+10:35:24  [main] 	XAMPP Installation Directory: "c:\users\mario.farag\documents\informatica2024\informatica\pavan_diego\data_b\xampp\"
+10:35:24  [main] 	Checking for prerequisites
+10:35:24  [main] 	All prerequisites found
+10:35:24  [main] 	Initializing Modules
+10:35:24  [main] 	The FileZilla module is disabled
+10:35:24  [main] 	The Mercury module is disabled
+10:35:24  [main] 	Starting Check-Timer
+10:35:24  [main] 	Control Panel Ready
+10:35:25  [Apache] 	Attempting to start Apache app...
+10:35:26  [Apache] 	Status change detected: running
+10:35:27  [mysql] 	Attempting to start MySQL app...
+10:35:27  [mysql] 	Status change detected: running
+12:05:57  [main] 	Deinitializing Modules
+12:05:57  [main] 	Deinitializing Control Panel
+
+10:35:40  [main] 	Initializing Control Panel
+10:35:40  [main] 	Windows Version:  Enterprise  64-bit
+10:35:40  [main] 	XAMPP Version: 8.2.4
+10:35:40  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:35:40  [main] 	You are not running with administrator rights! This will work for
+10:35:40  [main] 	most application stuff but whenever you do something with services
+10:35:40  [main] 	there will be a security dialogue or things will break! So think 
+10:35:40  [main] 	about running this application with administrator rights!
+10:35:40  [main] 	XAMPP Installation Directory: "c:\users\mario.farag\documents\informatica2024\informatica\pavan_diego\data_b\xampp\"
+10:35:40  [main] 	Checking for prerequisites
+10:35:40  [main] 	All prerequisites found
+10:35:40  [main] 	Initializing Modules
+10:35:40  [Apache] 	XAMPP Apache is already running on port 80
+10:35:40  [Apache] 	XAMPP Apache is already running on port 443
+10:35:40  [mysql] 	XAMPP MySQL is already running on port 3306
+10:35:40  [main] 	The FileZilla module is disabled
+10:35:40  [main] 	The Mercury module is disabled
+10:35:40  [main] 	Starting Check-Timer
+10:35:40  [main] 	Control Panel Ready
+12:05:57  [mysql] 	Status change detected: stopped
+12:05:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:05:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:05:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:05:57  [mysql] 	Press the Logs button to view error logs and check
+12:05:57  [mysql] 	the Windows Event Viewer for more clues
+12:05:57  [mysql] 	If you need more help, copy and post this
+12:05:57  [mysql] 	entire log window on the forums
+12:05:58  [main] 	Deinitializing Modules
+12:05:58  [main] 	Deinitializing Control Panel
+
