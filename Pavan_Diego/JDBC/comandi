@@ -1,0 +1,20 @@
+//PRIMA TABLE
+CREATE TABLE Data (ID VARCHAR(255) , Name VARCHAR(255) ,Surname VARCHAR(255),  Age int); 
+
+
+creami un programma java diviso in due classi bassato deul codice che ti ho appena dato.
+Il  programma java avrà il seguente menu:
+1 - Inserisci un elemento
+2 - Visualizza l'elenco
+3 - Modifica un elemento
+4 - Cancella un elemento
+5 - Contare il numero di alunni con età maggiore di un certo valore( letto da tastiera)
+6 - visualizzare l'età media
+7 - Visualizzare gli alunni più vecchi (se non si riesce con una query fare 2 query)
+8 - Visualizzare gli alunni che hanno nel nome una sequenza data (letta  da tastiera per es. "gian")
+9 - Aumentare l'età di tutti gli alunni di un anno
+10 - Copiare nella tabella AlunniBack tutti i dati della tabella Alunni
+11 - Spostare nella tabella AlunniOld tutti gli alunni di una certa età
+99 - Esci
+
+

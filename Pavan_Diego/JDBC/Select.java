@@ -1,7 +1,7 @@
 import java.sql.*;
 
 public class Select {
-    static final String DB_URL = "jdbc:mysql://localhost/Alunni";
+    static final String DB_URL = "jdbc:mysql://localhost/alunno";
     static final String USER = "root";				 	//  Database credentials
     static final String PASS = "";				
 

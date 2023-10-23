@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class Insert {
 
-    static final String DB_URL = "jdbc:mysql://localhost/Alunni";
+    static final String DB_URL = "jdbc:mysql://localhost/alunno";
     static final String USER = "root";				 	// Credentiali Database 
     static final String PASS = "";				
 
@@ -17,7 +17,7 @@ public class Insert {
             conn = DriverManager.getConnection(DB_URL, USER, PASS);	// Apre una connessione
    
             stmt = conn.createStatement();				   
-            String sql = "INSERT INTO anagrafico (nome, cognome, Eta)  VALUES ( 'Sara', 'Verdicchio', 12)";
+            String sql = "INSERT INTO data (ID, Name, Surname, age)  VALUES ( 'rr12', 'jj', 'white', 87000)";
             int result = stmt.executeUpdate(sql);				// Esegue una insert
  
             if (result > 0) System.out.println("inserito con successo"); 
