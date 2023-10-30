@@ -1,20 +1,49 @@
-//PRIMA TABLE
-CREATE TABLE Data (ID VARCHAR(255) , Name VARCHAR(255) ,Surname VARCHAR(255),  Age int); 
+public class MainProgram {
+    // ... [Codice esistente] ...
+    public static void main(String[] args) {
+        // ... [Codice esistente] ...
+        while (true) {
+            System.out.println("Menu:");
+            // ... [Codice esistente] ...
+            System.out.println("8 - Visualizzare gli alunni che hanno nel nome una sequenza data");
+            System.out.println("9 - Aumentare l'età di tutti gli alunni di un anno");
+            System.out.println("10 - Copiare nella tabella AlunniBack tutti i dati della tabella Alunni");
+            System.out.println("11 - Spostare nella tabella AlunniOld tutti gli alunni di una certa età");
 
+            int choice = scanner.nextInt();
+            scanner.nextLine();
 
-creami un programma java diviso in due classi bassato deul codice che ti ho appena dato.
-Il  programma java avrà il seguente menu:
-1 - Inserisci un elemento
-2 - Visualizza l'elenco
-3 - Modifica un elemento
-4 - Cancella un elemento
-5 - Contare il numero di alunni con età maggiore di un certo valore( letto da tastiera)
-6 - visualizzare l'età media
-7 - Visualizzare gli alunni più vecchi (se non si riesce con una query fare 2 query)
-8 - Visualizzare gli alunni che hanno nel nome una sequenza data (letta  da tastiera per es. "gian")
-9 - Aumentare l'età di tutti gli alunni di un anno
-10 - Copiare nella tabella AlunniBack tutti i dati della tabella Alunni
-11 - Spostare nella tabella AlunniOld tutti gli alunni di una certa età
-99 - Esci
+            switch (choice) {
+                // ... [Codice esistente] ...
+                case 8:
+                    System.out.println("Inserisci la sequenza da cercare nel nome:");
+                    String sequence = scanner.nextLine();
+                    List<String> matched = db.studentsWithNameSequence(sequence);
+                    System.out.println("Alunni che corrispondono:");
+                    for (String student : matched) {
+                        System.out.println(student);
+                    }
+                    break;
 
+                case 9:
+                    db.increaseAllStudentsAge();
+                    System.out.println("Età di tutti gli alunni aumentata di un anno.");
+                    break;
 
+                case 10:
+                    int copied = db.copyToAlunniBack();
+                    System.out.println(copied + " alunni copiati nella tabella AlunniBack.");
+                    break;
+
+                case 11:
+                    System.out.println("Inserisci l'età degli alunni da spostare in AlunniOld:");
+                    int ageThreshold = scanner.nextInt();
+                    int moved = db.moveToAlunniOld(ageThreshold);
+                    System.out.println(moved + " alunni spostati nella tabella AlunniOld.");
+                    break;
+
+                // ... [Rest of the switch cases] ...
+            }
+        }
+    }
+}
