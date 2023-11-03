@@ -289,6 +289,6 @@ echo _gettext("Default");
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/body_for_table_summary.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\body_for_table_summary.twig");
+        return new Source("", "database/structure/body_for_table_summary.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\body_for_table_summary.twig");
     }
 }

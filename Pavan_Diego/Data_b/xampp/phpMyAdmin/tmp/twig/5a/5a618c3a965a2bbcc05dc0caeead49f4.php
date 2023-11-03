@@ -78,6 +78,6 @@ echo _gettext("Continue");
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/bulk_action_modal.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\bulk_action_modal.twig");
+        return new Source("", "database/structure/bulk_action_modal.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\bulk_action_modal.twig");
     }
 }

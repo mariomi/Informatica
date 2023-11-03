@@ -84,7 +84,7 @@ sub AUTOLOAD {
 
 # tie returns the object, so the value returned to require will be true.
 tie %Config, 'Config', {
-    archlibexp => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\lib',
+    archlibexp => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\lib',
     archname => 'MSWin32-x64-multi-thread',
     cc => 'gcc',
     d_readlink => undef,
@@ -96,14 +96,14 @@ tie %Config, 'Config', {
     inc_version_list => '',
     intsize => '4',
     ldlibpthname => '',
-    libpth => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
+    libpth => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
     osname => 'MSWin32',
     osvers => '10.0.19042.746',
     path_sep => ';',
-    privlibexp => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\lib',
-    scriptdir => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\bin',
-    sitearchexp => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\site\\lib',
-    sitelibexp => '\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\site\\lib',
+    privlibexp => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\lib',
+    scriptdir => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\bin',
+    sitearchexp => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\site\\lib',
+    sitelibexp => '\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\perl\\site\\lib',
     so => 'dll',
     useithreads => 'define',
     usevendorprefix => 'define',

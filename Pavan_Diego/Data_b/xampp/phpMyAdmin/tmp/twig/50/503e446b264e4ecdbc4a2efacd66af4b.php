@@ -94,6 +94,6 @@ class __TwigTemplate_c3f52c8bf25d8f0d03d9308d27f25bb2 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "console/query_action.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\console\\query_action.twig");
+        return new Source("", "console/query_action.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\console\\query_action.twig");
     }
 }

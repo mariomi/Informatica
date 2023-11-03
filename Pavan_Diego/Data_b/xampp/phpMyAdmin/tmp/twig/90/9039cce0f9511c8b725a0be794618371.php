@@ -68,6 +68,6 @@ class __TwigTemplate_d5a1202f50b8ac9547f59e8fc932748b extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/tree/quick_warp.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\navigation\\tree\\quick_warp.twig");
+        return new Source("", "navigation/tree/quick_warp.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\navigation\\tree\\quick_warp.twig");
     }
 }

@@ -1,4 +1,4 @@
-#!"\Users\mario.farag\Documents\Informatica2024\Informatica\Pavan_Diego\Data_b\xampp\perl\bin\perl.exe"
+#!"\Users\Mario.farag\Documents\Informatica\Pavan_Diego\Data_b\xampp\perl\bin\perl.exe"
 
 print "Content-type: text/html\n\n";
 print '<html>';

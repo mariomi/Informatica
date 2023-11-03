@@ -734,6 +734,6 @@ echo _gettext("Get more themes!");
 
     public function getSourceContext()
     {
-        return new Source("", "home/index.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\home\\index.twig");
+        return new Source("", "home/index.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\home\\index.twig");
     }
 }

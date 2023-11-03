@@ -380,6 +380,6 @@ echo _gettext("Allow users to customize this value");
 
     public function getSourceContext()
     {
-        return new Source("", "config/form_display/input.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\config\\form_display\\input.twig");
+        return new Source("", "config/form_display/input.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\config\\form_display\\input.twig");
     }
 }

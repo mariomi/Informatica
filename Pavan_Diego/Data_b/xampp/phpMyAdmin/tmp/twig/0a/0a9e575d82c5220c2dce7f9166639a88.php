@@ -78,6 +78,6 @@ class __TwigTemplate_0f4b7112538dabc5efd59f8d41418be1 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/comment_for_row.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\display\\results\\comment_for_row.twig");
+        return new Source("", "display/results/comment_for_row.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\display\\results\\comment_for_row.twig");
     }
 }

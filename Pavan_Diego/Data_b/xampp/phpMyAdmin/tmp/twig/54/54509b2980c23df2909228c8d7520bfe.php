@@ -136,6 +136,6 @@ class __TwigTemplate_3f72225bc94b37a26ab3361ef14bd08c extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/index.twig", "C:\\Users\\mario.farag\\Documents\\Informatica2024\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\index.twig");
+        return new Source("", "database/structure/index.twig", "C:\\Users\\Mario.farag\\Documents\\Informatica\\Pavan_Diego\\Data_b\\xampp\\phpMyAdmin\\templates\\database\\structure\\index.twig");
     }
 }

@@ -48,3 +48,14 @@
 [Fri Oct 27 12:07:10.507103 2023] [ssl:warn] [pid 6720:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Fri Oct 27 12:07:10.524814 2023] [mpm_winnt:notice] [pid 6720:tid 364] AH00354: Child: Starting 150 worker threads.
 [Fri Oct 27 12:07:10.654207 2023] [mpm_winnt:crit] [pid 6720:tid 364] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Nov 03 10:43:17.704602 2023] [ssl:warn] [pid 17132:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 03 10:43:17.725951 2023] [core:warn] [pid 17132:tid 364] AH00098: pid file C:/Users/Mario.farag/Documents/Informatica/Pavan_Diego/Data_b/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 03 10:43:17.725951 2023] [ssl:warn] [pid 17132:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 03 10:43:17.896628 2023] [mpm_winnt:notice] [pid 17132:tid 364] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Nov 03 10:43:17.896628 2023] [mpm_winnt:notice] [pid 17132:tid 364] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Nov 03 10:43:17.896628 2023] [core:notice] [pid 17132:tid 364] AH00094: Command line: 'c:\\users\\mario.farag\\documents\\informatica\\pavan_diego\\data_b\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Mario.farag/Documents/Informatica/Pavan_Diego/Data_b/xampp/apache'
+[Fri Nov 03 10:43:17.896628 2023] [mpm_winnt:notice] [pid 17132:tid 364] AH00418: Parent: Created child process 456
+[Fri Nov 03 10:43:18.075034 2023] [ssl:warn] [pid 456:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 03 10:43:18.095761 2023] [ssl:warn] [pid 456:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 03 10:43:18.111905 2023] [mpm_winnt:notice] [pid 456:tid 364] AH00354: Child: Starting 150 worker threads.
+[Fri Nov 03 12:05:24.238700 2023] [mpm_winnt:crit] [pid 456:tid 364] AH02538: Child: Parent process exited abruptly. Child process is ending
