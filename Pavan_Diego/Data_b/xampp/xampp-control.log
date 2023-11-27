@@ -135,6 +135,7 @@
 12:06:31  [main] 	Deinitializing Modules
 12:06:31  [main] 	Deinitializing Control Panel
 
+<<<<<<< Updated upstream
 10:43:15  [main] 	Initializing Control Panel
 10:43:15  [main] 	Windows Version:  Enterprise  64-bit
 10:43:15  [main] 	XAMPP Version: 8.2.4
@@ -230,4 +231,78 @@
 10:43:19  [mysql] 	Status change detected: running
 12:04:27 PM  [main] 	Deinitializing Modules
 12:04:27 PM  [main] 	Deinitializing Control Panel
+=======
+08:20:03  [main] 	Initializing Control Panel
+08:20:03  [main] 	Windows Version:  Enterprise  64-bit
+08:20:03  [main] 	XAMPP Version: 8.2.4
+08:20:03  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+08:20:03  [main] 	You are not running with administrator rights! This will work for
+08:20:03  [main] 	most application stuff but whenever you do something with services
+08:20:03  [main] 	there will be a security dialogue or things will break! So think 
+08:20:03  [main] 	about running this application with administrator rights!
+08:20:03  [main] 	XAMPP Installation Directory: "c:\users\mario.farag\documents\informatica2024\informatica\pavan_diego\data_b\xampp\"
+08:20:03  [main] 	Checking for prerequisites
+08:20:03  [main] 	All prerequisites found
+08:20:03  [main] 	Initializing Modules
+08:20:03  [Apache] 	XAMPP Apache is already running on port 80
+08:20:03  [Apache] 	XAMPP Apache is already running on port 443
+08:20:03  [mysql] 	XAMPP MySQL is already running on port 3306
+08:20:03  [main] 	The FileZilla module is disabled
+08:20:03  [main] 	The Mercury module is disabled
+08:20:03  [main] 	Starting Check-Timer
+08:20:03  [main] 	Control Panel Ready
+09:50:21  [main] 	Deinitializing Modules
+09:50:21  [main] 	Deinitializing Control Panel
+
+08:19:50  [main] 	Initializing Control Panel
+08:19:50  [main] 	Windows Version:  Enterprise  64-bit
+08:19:50  [main] 	XAMPP Version: 8.2.4
+08:19:50  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+08:19:50  [main] 	You are not running with administrator rights! This will work for
+08:19:50  [main] 	most application stuff but whenever you do something with services
+08:19:50  [main] 	there will be a security dialogue or things will break! So think 
+08:19:50  [main] 	about running this application with administrator rights!
+08:19:50  [main] 	XAMPP Installation Directory: "c:\users\mario.farag\documents\informatica2024\informatica\pavan_diego\data_b\xampp\"
+08:19:50  [main] 	Checking for prerequisites
+08:19:51  [main] 	All prerequisites found
+08:19:51  [main] 	Initializing Modules
+08:19:51  [mysql] 	XAMPP MySQL is already running on port 3306
+08:19:51  [main] 	The FileZilla module is disabled
+08:19:51  [main] 	The Mercury module is disabled
+08:19:51  [main] 	Starting Check-Timer
+08:19:51  [main] 	Control Panel Ready
+08:19:55  [Apache] 	Attempting to start Apache app...
+08:19:55  [Apache] 	Status change detected: running
+09:50:22  [main] 	Deinitializing Modules
+09:50:22  [main] 	Deinitializing Control Panel
+
+09:09:22  [main] 	Initializing Control Panel
+09:09:22  [main] 	Windows Version:  Enterprise  64-bit
+09:09:22  [main] 	XAMPP Version: 8.2.4
+09:09:22  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:09:22  [main] 	You are not running with administrator rights! This will work for
+09:09:22  [main] 	most application stuff but whenever you do something with services
+09:09:22  [main] 	there will be a security dialogue or things will break! So think 
+09:09:22  [main] 	about running this application with administrator rights!
+09:09:22  [main] 	XAMPP Installation Directory: "c:\users\mario.farag\documents\informatica2024\informatica\pavan_diego\data_b\xampp\"
+09:09:22  [main] 	Checking for prerequisites
+09:09:24  [main] 	All prerequisites found
+09:09:24  [main] 	Initializing Modules
+09:09:24  [main] 	The FileZilla module is disabled
+09:09:24  [main] 	The Mercury module is disabled
+09:09:24  [main] 	Starting Check-Timer
+09:09:24  [main] 	Control Panel Ready
+09:09:26  [Apache] 	Attempting to start Apache app...
+09:09:26  [Apache] 	Status change detected: running
+09:55:05  [Apache] 	Status change detected: stopped
+09:55:05  [Apache] 	Error: Apache shutdown unexpectedly.
+09:55:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:55:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:55:05  [Apache] 	Press the Logs button to view error logs and check
+09:55:05  [Apache] 	the Windows Event Viewer for more clues
+09:55:05  [Apache] 	If you need more help, copy and post this
+09:55:05  [Apache] 	entire log window on the forums
+09:55:22  [main] 	Deinitializing Modules
+09:55:22  [main] 	Deinitializing Control Panel
+>>>>>>> Stashed changes
 
